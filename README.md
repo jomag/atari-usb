@@ -6,6 +6,8 @@ adapter, allowing old, golden joysticks such as TAC-2 to be used with
 modern computers, or products such as "The C64" that use USB for
 joysticks.
 
+![Pic](media/atari-usb-500.jpg)
+
 Architecture
 ------------
 
