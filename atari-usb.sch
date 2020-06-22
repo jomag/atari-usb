@@ -58,7 +58,7 @@ F 3 "~" H 4500 2250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Crystals:NX3225GD-8MHZ-STD-CRA-3 XTAL1
+L atari-usb-rescue:NX3225GD-8MHZ-STD-CRA-3-dk_Crystals XTAL1
 U 1 1 5EA6B7C6
 P 4800 2100
 F 0 "XTAL1" V 4800 2203 50  0000 L CNN
@@ -913,4 +913,10 @@ Connection ~ 6300 1000
 Wire Wire Line
 	6100 1500 6300 1500
 Connection ~ 6300 1500
+Text Label 6500 1950 0    50   ~ 0
+SCK
+Text Label 6500 2050 0    50   ~ 0
+MOSI
+Text Label 6500 2150 0    50   ~ 0
+MISO
 $EndSCHEMATC

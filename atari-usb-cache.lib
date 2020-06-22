@@ -248,11 +248,11 @@ X GND 3 0 -400 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# dk_Crystals_NX3225GD-8MHZ-STD-CRA-3
+# atari-usb-rescue_NX3225GD-8MHZ-STD-CRA-3-dk_Crystals
 #
-DEF dk_Crystals_NX3225GD-8MHZ-STD-CRA-3 XTAL 0 40 Y Y 1 F N
+DEF atari-usb-rescue_NX3225GD-8MHZ-STD-CRA-3-dk_Crystals XTAL 0 40 Y Y 1 F N
 F0 "XTAL" 0 150 50 H V C CNN
-F1 "dk_Crystals_NX3225GD-8MHZ-STD-CRA-3" 0 -150 50 H V C CNN
+F1 "atari-usb-rescue_NX3225GD-8MHZ-STD-CRA-3-dk_Crystals" 0 -150 50 H V C CNN
 F2 "digikey-footprints:SMD-2_3.2x2.5mm" 200 200 60 H I L CNN
 F3 "http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf" 200 300 60 H I L CNN
 F4 "644-1178-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
